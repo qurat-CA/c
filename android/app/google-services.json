@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "928492200732",
+    "project_id": "voltz-8a2c5",
+    "storage_bucket": "voltz-8a2c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928492200732:android:0578c8fcd305eacd31d0d9",
+        "android_client_info": {
+          "package_name": "com.voltz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928492200732-5sv4i6t1g9qk05hbuqq4k0pi41eq5c3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voltz",
+            "certificate_hash": "2aff589138a451da0da1429842a152ff347a071b"
+          }
+        },
+        {
+          "client_id": "928492200732-5q3eu071ts44pod1j0oal2etf1vcgo3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Rv6W5VWqbIq7tyV9oM_yvK02FvHT7jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928492200732-5q3eu071ts44pod1j0oal2etf1vcgo3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
